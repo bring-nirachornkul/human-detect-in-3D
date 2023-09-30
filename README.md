@@ -2,6 +2,16 @@
 
 Detect human keypoints in 3D space using the Intel RealSense D435i camera. This project leverages the Point Cloud Generator from the Intel RealSense OpenCV Python SDK and integrates it with MediaPipe for real-time human keypoint detection.
 
+
+## Videos
+
+### RGB Camera and Depth Camera
+[![RGB Camera and Depth Camera](http://img.youtube.com/vi/qY6Oh9aakHA/0.jpg)](https://www.youtube.com/watch?v=qY6Oh9aakHA)
+
+### RGBD: Measure the Depth of Human's Landmarks
+[![RGBD: Measure the Depth of Human's Landmarks](http://img.youtube.com/vi/VCi-aCqc92I/0.jpg)](https://youtu.be/VCi-aCqc92I)
+
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
