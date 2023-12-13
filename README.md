@@ -6,7 +6,7 @@ Detect human keypoints in 3D space using the Intel RealSense D435i camera. This 
 ## Videos
 
 ### RGB Camera and Depth Camera
-https://youtu.be/1Gqrioa5NIw
+[![RGBD: Measure the Depth of Human's Landmarks](http://img.youtube.com/vi/VCi-aCqc92I/0.jpg)](https://youtu.be/1Gqrioa5NIw)
 
 ### RGBD: Measure the Depth of Human's Landmarks
 [![RGBD: Measure the Depth of Human's Landmarks](http://img.youtube.com/vi/VCi-aCqc92I/0.jpg)](https://youtu.be/VCi-aCqc92I)
